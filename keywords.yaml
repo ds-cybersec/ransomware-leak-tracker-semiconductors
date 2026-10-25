@@ -1,0 +1,11 @@
+target_sectors:
+  - semiconductor
+  - chip
+  - wafer
+  - fab
+  - electronics
+  - pcb
+  - manufacturing
+  - industrial
+  - automotive parts
+  - machinery
