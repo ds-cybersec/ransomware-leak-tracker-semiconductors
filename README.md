@@ -1,4 +1,4 @@
-# Ransomware Leak-Site Tracker
+# Ransomware Leak-Site Tracker (Semiconductor & Industrial Focus)
 
 An automated Cyber Threat Intelligence (CTI) pipeline that scrapes public ransomware extortion data, normalizes records into a local SQLite database, filters targets by critical industrial and semiconductor sectors, and generates executive weekly threat briefings with data visualizations.
 
@@ -31,4 +31,4 @@ Security teams and organizations within high-value manufacturing and semiconduct
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ds-cybersec/ransomware-leak-tracker.git](https://github.com/ds-cybersec/ransomware-leak-tracker.git)
+   git clone [https://github.com/ds-cybersec/ransomware-leak-tracker-semiconductors.git](https://github.com/ds-cybersec/ransomware-leak-tracker-semiconductors.git)
